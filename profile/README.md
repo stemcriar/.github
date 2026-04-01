@@ -9,7 +9,7 @@ O **STEM Criar** é um Projeto de P&D desenvolvido pela **Universidade do Estado
 
 Através da **metodologia STEM**, estimulamos a aplicação do conhecimento em situações do mundo real, desde a modelagem de peças 3D até o uso de visão computacional e inteligência artificial. Buscamos transformar a educação para ser mais inovadora, atrativa e criativa!
 
-> Projeto incentivado pela **Samsung Eletrônica da Amazônia (SEDA)** a partir da Lei da Informática para a Amazônia Ocidental (Lei Federal n° 8.387/1991).
+> Projeto incentivado pela **Samsung Eletrônica da Amazônia LTDA. (SEDA)** a partir da Lei da Informática para a Amazônia Ocidental (Lei Federal n° 8.387/1991).
 
 ---
 
